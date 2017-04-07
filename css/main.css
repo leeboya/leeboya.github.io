@@ -6,6 +6,9 @@
   right: 50%;
   transform: translateX(-50%);
 }
+.spinner:hover {
+  display: none;
+}
 .cube1,
 .cube2 {
   background-color: #000;
@@ -2129,7 +2132,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #a8ff1a;
+  background: #a4c9a8;
 }
 .links-of-blogroll {
   font-size: 13px;
